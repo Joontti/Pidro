@@ -1,0 +1,11 @@
+Enter bet for Peter: 0
+Lucas bet 9
+Stewie bet 0
+Kalle bet 9
+
+// something wrong about AI in betting()
+
+Enter bet for Peter: 13
+Lucas bet 0
+Stewie bet 8
+Kalle bet 0
