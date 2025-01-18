@@ -1,0 +1,4 @@
+Game winner: The Simpsons
+Score of team The Simpsons: 63
+Score of team Family Guy: 18
+
