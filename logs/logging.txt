@@ -1,0 +1,1325 @@
+Bet: 9
+Dealer: true
+Potential points: 13
+Actual points: 13
+Suit: Hearts
+[1]:    5 of Hearts
+[2]:    9 of Hearts
+[3]:    10 of Hearts
+[4]:    5 of Diamonds
+
+Bet: 9
+Dealer: false
+Potential points: 7
+Actual points: -9
+Suit: Hearts
+[1]:    3 of Hearts
+[2]:    6 of Hearts
+[3]:    Ace of Hearts
+[4]:    5 of Diamonds
+
+Bet: 10
+Dealer: false
+Potential points: 8
+Actual points: -10
+Suit: Clubs
+[1]:    5 of Spades
+[2]:    10 of Clubs
+[3]:    King of Clubs
+[4]:    Ace of Clubs
+
+Bet: 9
+Dealer: false
+Potential points: 7
+Actual points: -9
+Suit: Spades
+[1]:    5 of Spades
+[2]:    10 of Spades
+[3]:    King of Spades
+
+Bet: 6
+Dealer: false
+Potential points: 7
+Actual points: 7
+Suit: Spades
+[1]:    2 of Spades
+[2]:    5 of Clubs
+
+Bet: 7
+Dealer: false
+Potential points: 13
+Actual points: 13
+Suit: Hearts
+[1]:    2 of Hearts
+[2]:    Queen of Hearts
+[3]:    Ace of Hearts
+[4]:    5 of Diamonds
+
+Bet: 6
+Dealer: true
+Potential points: 7
+Actual points: 7
+Suit: Diamonds
+[1]:    5 of Hearts
+[2]:    2 of Diamonds
+[3]:    10 of Diamonds
+
+Bet: 6
+Dealer: true
+Potential points: 8
+Actual points: 8
+Suit: Spades
+[1]:    10 of Spades
+[2]:    King of Spades
+[3]:    5 of Clubs
+
+Bet: 8
+Dealer: false
+Potential points: 2
+Actual points: -8
+Suit: Spades
+[1]:    5 of Spades
+
+Bet: 11
+Dealer: false
+Potential points: 1
+Actual points: -11
+Suit: Spades
+[1]:    4 of Spades
+[2]:    5 of Spades
+[3]:    5 of Clubs
+
+Bet: 6
+Dealer: true
+Potential points: 14
+Actual points: 14
+Suit: Clubs
+[1]:    2 of Clubs
+[2]:    3 of Clubs
+[3]:    Jack of Clubs
+[4]:    Queen of Clubs
+[5]:    King of Clubs
+[6]:    Ace of Clubs
+
+Bet: 10
+Dealer: true
+Potential points: 13
+Actual points: 13
+Suit: Diamonds
+[1]:    5 of Hearts
+[2]:    2 of Diamonds
+[3]:    8 of Diamonds
+[4]:    Jack of Diamonds
+
+Bet: 8
+Dealer: true
+Potential points: 9
+Actual points: 9
+Suit: Hearts
+[1]:    2 of Hearts
+[2]:    5 of Diamonds
+
+Bet: 7
+Dealer: false
+Potential points: 3
+Actual points: -7
+Suit: Diamonds
+[1]:    2 of Diamonds
+[2]:    4 of Diamonds
+[3]:    5 of Diamonds
+
+Bet: 9
+Dealer: false
+Potential points: 1
+Actual points: -9
+Suit: Hearts
+[1]:    10 of Hearts
+[2]:    5 of Diamonds
+
+Bet: 7
+Dealer: true
+Potential points: 2
+Actual points: -7
+Suit: Hearts
+[1]:    King of Hearts
+[2]:    5 of Diamonds
+
+Bet: 6
+Dealer: false
+Potential points: 14
+Actual points: 14
+Suit: Diamonds
+[1]:    2 of Diamonds
+[2]:    4 of Diamonds
+[3]:    6 of Diamonds
+[4]:    10 of Diamonds
+[5]:    Ace of Diamonds
+
+Bet: 9
+Dealer: false
+Potential points: 1
+Actual points: -9
+Suit: Clubs
+[1]:    5 of Spades
+[2]:    5 of Clubs
+[3]:    7 of Clubs
+[4]:    10 of Clubs
+
+Bet: 13
+Dealer: false
+Potential points: 13
+Actual points: 13
+Suit: Hearts
+[1]:    5 of Hearts
+[2]:    9 of Hearts
+[3]:    King of Hearts
+[4]:    5 of Diamonds
+
+Bet: 7
+Dealer: true
+Potential points: 5
+Actual points: -7
+Suit: Hearts
+[1]:    5 of Hearts
+[2]:    King of Hearts
+
+Bet: 9
+Dealer: false
+Potential points: 9
+Actual points: 9
+Suit: Hearts
+[1]:    4 of Hearts
+[2]:    5 of Hearts
+[3]:    King of Hearts
+[4]:    Ace of Hearts
+
+Bet: 6
+Dealer: true
+Potential points: 11
+Actual points: 11
+Suit: Spades
+[1]:    Jack of Spades
+
+Bet: 6
+Dealer: true
+Potential points: 9
+Actual points: 9
+Suit: Spades
+[1]:    7 of Spades
+[2]:    9 of Spades
+[3]:    King of Spades
+[4]:    5 of Clubs
+
+Bet: 6
+Dealer: false
+Potential points: 12
+Actual points: 12
+Suit: Hearts
+[1]:    2 of Hearts
+[2]:    4 of Hearts
+[3]:    5 of Hearts
+[4]:    9 of Hearts
+
+Bet: 13
+Dealer: false
+Potential points: 6
+Actual points: -13
+Suit: Hearts
+[1]:    4 of Hearts
+[2]:    5 of Hearts
+[3]:    7 of Hearts
+[4]:    9 of Hearts
+[5]:    Queen of Hearts
+[6]:    5 of Diamonds
+
+Bet: 6
+Dealer: true
+Potential points: 8
+Actual points: 8
+Suit: Clubs
+[1]:    4 of Clubs
+[2]:    6 of Clubs
+[3]:    7 of Clubs
+[4]:    9 of Clubs
+[5]:    10 of Clubs
+
+Bet: 6
+Dealer: true
+Potential points: 7
+Actual points: 7
+Suit: Spades
+[1]:    10 of Spades
+[2]:    Queen of Spades
+
+Bet: 6
+Dealer: false
+Potential points: 8
+Actual points: 8
+Suit: Diamonds
+[1]:    5 of Diamonds
+[2]:    10 of Diamonds
+[3]:    Ace of Diamonds
+
+Bet: 6
+Dealer: false
+Potential points: 1
+Actual points: -6
+Suit: Hearts
+[1]:    5 of Hearts
+[2]:    8 of Hearts
+[3]:    10 of Hearts
+
+Bet: 7
+Dealer: false
+Potential points: 2
+Actual points: -7
+Suit: Hearts
+[1]:    3 of Hearts
+[2]:    7 of Hearts
+[3]:    Ace of Hearts
+[4]:    5 of Diamonds
+
+Bet: 6
+Dealer: true
+Potential points: 13
+Actual points: 13
+Suit: Spades
+[1]:    2 of Spades
+[2]:    9 of Spades
+[3]:    Jack of Spades
+
+Bet: 9
+Dealer: false
+Potential points: 1
+Actual points: -9
+Suit: Spades
+[1]:    9 of Spades
+[2]:    Ace of Spades
+[3]:    5 of Clubs
+
+Bet: 6
+Dealer: false
+Potential points: 7
+Actual points: 7
+Suit: Clubs
+[1]:    5 of Spades
+[2]:    6 of Clubs
+[3]:    10 of Clubs
+[4]:    Ace of Clubs
+
+Bet: 9
+Dealer: false
+Potential points: 11
+Actual points: 11
+Suit: Spades
+[1]:    7 of Spades
+[2]:    10 of Spades
+[3]:    King of Spades
+[4]:    5 of Clubs
+
+Bet: 6
+Dealer: true
+Potential points: 8
+Actual points: 8
+Suit: Hearts
+[1]:    2 of Hearts
+[2]:    3 of Hearts
+[3]:    Ace of Hearts
+
+Bet: 8
+Dealer: false
+Potential points: 6
+Actual points: -8
+Suit: Spades
+[1]:    5 of Spades
+[2]:    10 of Spades
+[3]:    Jack of Spades
+
+Bet: 7
+Dealer: false
+Potential points: 7
+Actual points: 7
+Suit: Diamonds
+[1]:    5 of Diamonds
+[2]:    10 of Diamonds
+[3]:    Queen of Diamonds
+
+Bet: 9
+Dealer: false
+Potential points: 7
+Actual points: -9
+Suit: Hearts
+[1]:    5 of Hearts
+[2]:    7 of Hearts
+[3]:    Jack of Hearts
+[4]:    Ace of Hearts
+
+Bet: 6
+Dealer: true
+Potential points: 11
+Actual points: 11
+Suit: Clubs
+[1]:    4 of Clubs
+[2]:    7 of Clubs
+[3]:    8 of Clubs
+[4]:    Jack of Clubs
+[5]:    King of Clubs
+
+Bet: 12
+Dealer: false
+Potential points: 9
+Actual points: -12
+Suit: Diamonds
+[1]:    5 of Hearts
+[2]:    2 of Diamonds
+[3]:    5 of Diamonds
+[4]:    9 of Diamonds
+[5]:    10 of Diamonds
+
+Bet: 9
+Dealer: false
+Potential points: 0
+Actual points: -9
+Suit: Hearts
+[1]:    5 of Hearts
+[2]:    Jack of Hearts
+
+Bet: 7
+Dealer: false
+Potential points: 7
+Actual points: 7
+Suit: Spades
+[1]:    5 of Spades
+
+Bet: 6
+Dealer: false
+Potential points: 2
+Actual points: -6
+Suit: Spades
+[1]:    7 of Spades
+[2]:    Jack of Spades
+[3]:    5 of Clubs
+
+Bet: 8
+Dealer: true
+Potential points: 1
+Actual points: -8
+Suit: Spades
+[1]:    7 of Spades
+[2]:    9 of Spades
+[3]:    5 of Clubs
+
+Bet: 9
+Dealer: false
+Potential points: 13
+Actual points: 13
+Suit: Spades
+[1]:    4 of Spades
+[2]:    5 of Spades
+[3]:    10 of Spades
+[4]:    Ace of Spades
+
+Bet: 9
+Dealer: false
+Potential points: 8
+Actual points: -9
+Suit: Hearts
+[1]:    2 of Hearts
+[2]:    3 of Hearts
+[3]:    Ace of Hearts
+[4]:    5 of Diamonds
+
+Bet: 14
+Dealer: false
+Potential points: 8
+Actual points: -14
+Suit: Hearts
+[1]:    5 of Hearts
+[2]:    King of Hearts
+[3]:    Ace of Hearts
+[4]:    5 of Diamonds
+
+Bet: 9
+Dealer: false
+Potential points: 13
+Actual points: 13
+Suit: Hearts
+[1]:    4 of Hearts
+[2]:    5 of Hearts
+[3]:    6 of Hearts
+[4]:    10 of Hearts
+[5]:    5 of Diamonds
+
+Bet: 8
+Dealer: false
+Potential points: 6
+Actual points: -8
+Suit: Diamonds
+[1]:    5 of Diamonds
+[2]:    6 of Diamonds
+[3]:    Ace of Diamonds
+
+Bet: 7
+Dealer: false
+Potential points: 4
+Actual points: -7
+Suit: Spades
+[1]:    4 of Spades
+[2]:    5 of Spades
+[3]:    6 of Spades
+[4]:    Ace of Spades
+
+Bet: 8
+Dealer: true
+Potential points: 2
+Actual points: -8
+Suit: Clubs
+[1]:    5 of Spades
+[2]:    2 of Clubs
+[3]:    10 of Clubs
+
+Bet: 14
+Dealer: false
+Potential points: 1
+Actual points: -14
+Suit: Diamonds
+[1]:    5 of Hearts
+[2]:    2 of Diamonds
+[3]:    3 of Diamonds
+[4]:    5 of Diamonds
+
+Bet: 6
+Dealer: false
+Potential points: 12
+Actual points: 12
+Suit: Clubs
+[1]:    2 of Clubs
+[2]:    5 of Clubs
+[3]:    7 of Clubs
+[4]:    10 of Clubs
+
+Bet: 7
+Dealer: false
+Potential points: 14
+Actual points: 14
+Suit: Spades
+[1]:    King of Spades
+[2]:    Ace of Spades
+[3]:    5 of Clubs
+
+Bet: 9
+Dealer: true
+Potential points: 8
+Actual points: -9
+Suit: Hearts
+[1]:    9 of Hearts
+[2]:    10 of Hearts
+[3]:    Jack of Hearts
+[4]:    5 of Diamonds
+
+Bet: 10
+Dealer: false
+Potential points: 11
+Actual points: 11
+Suit: Clubs
+[1]:    5 of Spades
+[2]:    3 of Clubs
+[3]:    10 of Clubs
+[4]:    King of Clubs
+[5]:    Ace of Clubs
+
+Bet: 6
+Dealer: false
+Potential points: 11
+Actual points: 11
+Suit: Hearts
+[1]:    5 of Hearts
+[2]:    10 of Hearts
+[3]:    Ace of Hearts
+
+Bet: 11
+Dealer: true
+Potential points: 5
+Actual points: -11
+Suit: Hearts
+[1]:    3 of Hearts
+[2]:    4 of Hearts
+[3]:    5 of Hearts
+[4]:    5 of Diamonds
+
+Bet: 8
+Dealer: false
+Potential points: 14
+Actual points: 14
+Suit: Hearts
+[1]:    5 of Hearts
+[2]:    Queen of Hearts
+
+Bet: 7
+Dealer: false
+Potential points: 7
+Actual points: 7
+Suit: Spades
+[1]:    3 of Spades
+[2]:    9 of Spades
+[3]:    10 of Spades
+[4]:    5 of Clubs
+
+Bet: 6
+Dealer: false
+Potential points: 14
+Actual points: 14
+Suit: Clubs
+[1]:    2 of Clubs
+[2]:    3 of Clubs
+[3]:    5 of Clubs
+
+Bet: 9
+Dealer: false
+Potential points: 7
+Actual points: -9
+Suit: Spades
+[1]:    3 of Spades
+[2]:    5 of Spades
+[3]:    10 of Spades
+[4]:    Queen of Spades
+
+Bet: 6
+Dealer: true
+Potential points: 8
+Actual points: 8
+Suit: Spades
+[1]:    2 of Spades
+[2]:    Ace of Spades
+
+Bet: 7
+Dealer: false
+Potential points: 13
+Actual points: 13
+Suit: Hearts
+[1]:    Ace of Hearts
+[2]:    5 of Diamonds
+
+Bet: 8
+Dealer: false
+Potential points: 1
+Actual points: -8
+Suit: Hearts
+[1]:    5 of Hearts
+[2]:    King of Hearts
+[3]:    Ace of Hearts
+
+Bet: 7
+Dealer: true
+Potential points: 1
+Actual points: -7
+Suit: Spades
+[1]:    5 of Spades
+[2]:    7 of Spades
+[3]:    Ace of Spades
+
+Bet: 7
+Dealer: false
+Potential points: 3
+Actual points: -7
+Suit: Hearts
+[1]:    5 of Hearts
+[2]:    10 of Hearts
+[3]:    Queen of Hearts
+
+Bet: 6
+Dealer: true
+Potential points: 13
+Actual points: 13
+Suit: Spades
+[1]:    2 of Spades
+[2]:    7 of Spades
+[3]:    Jack of Spades
+
+Bet: 7
+Dealer: false
+Potential points: 2
+Actual points: -7
+Suit: Spades
+[1]:    Queen of Spades
+[2]:    5 of Clubs
+
+Bet: 6
+Dealer: true
+Potential points: 14
+Actual points: 14
+Suit: Hearts
+[1]:    4 of Hearts
+[2]:    10 of Hearts
+[3]:    King of Hearts
+
+Bet: 9
+Dealer: false
+Potential points: 8
+Actual points: -9
+Suit: Clubs
+[1]:    5 of Spades
+[2]:    3 of Clubs
+[3]:    4 of Clubs
+[4]:    7 of Clubs
+[5]:    Jack of Clubs
+[6]:    Ace of Clubs
+
+Bet: 6
+Dealer: true
+Potential points: 7
+Actual points: 7
+Suit: Hearts
+[1]:    8 of Hearts
+[2]:    10 of Hearts
+[3]:    Jack of Hearts
+
+Bet: 9
+Dealer: false
+Potential points: 6
+Actual points: -9
+Suit: Diamonds
+[1]:    5 of Hearts
+[2]:    2 of Diamonds
+[3]:    3 of Diamonds
+
+Bet: 10
+Dealer: true
+Potential points: 2
+Actual points: -10
+Suit: Hearts
+[1]:    2 of Hearts
+[2]:    5 of Hearts
+[3]:    Ace of Hearts
+
+Bet: 8
+Dealer: false
+Potential points: 8
+Actual points: 8
+Suit: Diamonds
+[1]:    5 of Hearts
+[2]:    4 of Diamonds
+[3]:    8 of Diamonds
+[4]:    10 of Diamonds
+
+Bet: 9
+Dealer: false
+Potential points: 8
+Actual points: -9
+Suit: Spades
+[1]:    2 of Spades
+[2]:    5 of Spades
+[3]:    Jack of Spades
+
+Bet: 13
+Dealer: false
+Potential points: 0
+Actual points: -13
+Suit: Spades
+[1]:    5 of Spades
+[2]:    King of Spades
+[3]:    5 of Clubs
+
+Bet: 9
+Dealer: true
+Potential points: 14
+Actual points: 14
+Suit: Spades
+[1]:    2 of Spades
+[2]:    4 of Spades
+[3]:    5 of Clubs
+
+Bet: 8
+Dealer: false
+Potential points: 2
+Actual points: -8
+Suit: Diamonds
+[1]:    2 of Diamonds
+[2]:    5 of Diamonds
+[3]:    7 of Diamonds
+[4]:    10 of Diamonds
+
+Bet: 9
+Dealer: true
+Potential points: 2
+Actual points: -9
+Suit: Spades
+[1]:    5 of Spades
+[2]:    Jack of Spades
+[3]:    5 of Clubs
+
+Bet: 9
+Dealer: false
+Potential points: 6
+Actual points: -9
+Suit: Clubs
+[1]:    5 of Spades
+[2]:    9 of Clubs
+[3]:    Ace of Clubs
+
+Bet: 10
+Dealer: false
+Potential points: 14
+Actual points: 14
+Suit: Hearts
+[1]:    2 of Hearts
+[2]:    Jack of Hearts
+[3]:    5 of Diamonds
+
+Bet: 10
+Dealer: true
+Potential points: 13
+Actual points: 13
+Suit: Clubs
+[1]:    5 of Spades
+[2]:    2 of Clubs
+[3]:    5 of Clubs
+[4]:    7 of Clubs
+[5]:    Ace of Clubs
+
+Bet: 6
+Dealer: false
+Potential points: 13
+Actual points: 13
+Suit: Diamonds
+[1]:    5 of Hearts
+[2]:    6 of Diamonds
+[3]:    Ace of Diamonds
+
+Bet: 9
+Dealer: false
+Potential points: 7
+Actual points: -9
+Suit: Clubs
+[1]:    5 of Spades
+[2]:    9 of Clubs
+[3]:    Jack of Clubs
+[4]:    Ace of Clubs
+
+Bet: 9
+Dealer: true
+Potential points: 2
+Actual points: -9
+Suit: Clubs
+[1]:    5 of Clubs
+[2]:    8 of Clubs
+[3]:    10 of Clubs
+[4]:    Ace of Clubs
+
+Bet: 9
+Dealer: false
+Potential points: 2
+Actual points: -9
+Suit: Spades
+[1]:    9 of Spades
+[2]:    Jack of Spades
+[3]:    5 of Clubs
+
+Bet: 7
+Dealer: true
+Potential points: 2
+Actual points: -7
+Suit: Hearts
+[1]:    2 of Hearts
+[2]:    5 of Hearts
+
+Bet: 9
+Dealer: false
+Potential points: 13
+Actual points: 13
+Suit: Clubs
+[1]:    5 of Clubs
+[2]:    6 of Clubs
+[3]:    7 of Clubs
+[4]:    Ace of Clubs
+
+Bet: 7
+Dealer: false
+Potential points: 1
+Actual points: -7
+Suit: Hearts
+[1]:    5 of Hearts
+
+Bet: 8
+Dealer: true
+Potential points: 0
+Actual points: -8
+Suit: Spades
+[1]:    3 of Spades
+[2]:    5 of Spades
+[3]:    10 of Spades
+
+Bet: 10
+Dealer: true
+Potential points: 8
+Actual points: -10
+Suit: Diamonds
+[1]:    5 of Hearts
+[2]:    10 of Diamonds
+[3]:    Ace of Diamonds
+
+Bet: 6
+Dealer: true
+Potential points: 4
+Actual points: -6
+Suit: Hearts
+[1]:    7 of Hearts
+[2]:    10 of Hearts
+[3]:    Ace of Hearts
+
+Bet: 11
+Dealer: false
+Potential points: 9
+Actual points: -11
+Suit: Hearts
+[1]:    5 of Hearts
+[2]:    10 of Hearts
+[3]:    Jack of Hearts
+[4]:    Ace of Hearts
+
+Bet: 7
+Dealer: false
+Potential points: 13
+Actual points: 13
+Suit: Diamonds
+[1]:    5 of Diamonds
+[2]:    Ace of Diamonds
+
+Bet: 10
+Dealer: false
+Potential points: 14
+Actual points: 14
+Suit: Hearts
+[1]:    2 of Hearts
+[2]:    5 of Hearts
+[3]:    8 of Hearts
+[4]:    Ace of Hearts
+
+Bet: 6
+Dealer: true
+Potential points: 2
+Actual points: -6
+Suit: Hearts
+[1]:    Ace of Hearts
+[2]:    5 of Diamonds
+
+Bet: 6
+Dealer: true
+Potential points: 7
+Actual points: 7
+Suit: Hearts
+[1]:    2 of Hearts
+[2]:    5 of Hearts
+[3]:    Queen of Hearts
+[4]:    5 of Diamonds
+
+Bet: 10
+Dealer: true
+Potential points: 12
+Actual points: 12
+Suit: Clubs
+[1]:    5 of Spades
+[2]:    5 of Clubs
+[3]:    Ace of Clubs
+
+Bet: 6
+Dealer: true
+Potential points: 8
+Actual points: 8
+Suit: Clubs
+[1]:    Jack of Clubs
+
+Bet: 9
+Dealer: false
+Potential points: 8
+Actual points: -9
+Suit: Spades
+[1]:    5 of Spades
+[2]:    Queen of Spades
+[3]:    Ace of Spades
+
+Bet: 14
+Dealer: false
+Potential points: 1
+Actual points: -14
+Suit: Diamonds
+[1]:    5 of Hearts
+[2]:    5 of Diamonds
+[3]:    9 of Diamonds
+[4]:    Ace of Diamonds
+
+Bet: 6
+Dealer: false
+Potential points: 11
+Actual points: 11
+Suit: Hearts
+[1]:    5 of Hearts
+[2]:    10 of Hearts
+[3]:    Queen of Hearts
+
+Bet: 6
+Dealer: true
+Potential points: 11
+Actual points: 11
+Suit: Clubs
+[1]:    3 of Clubs
+[2]:    6 of Clubs
+[3]:    7 of Clubs
+[4]:    10 of Clubs
+[5]:    Queen of Clubs
+
+Bet: 10
+Dealer: true
+Potential points: 2
+Actual points: -10
+Suit: Hearts
+[1]:    2 of Hearts
+[2]:    5 of Hearts
+[3]:    6 of Hearts
+[4]:    10 of Hearts
+[5]:    Jack of Hearts
+[6]:    Queen of Hearts
+
+Bet: 6
+Dealer: true
+Potential points: 6
+Actual points: 6
+Suit: Spades
+[1]:    10 of Spades
+[2]:    Ace of Spades
+
+Bet: 8
+Dealer: false
+Potential points: 1
+Actual points: -8
+Suit: Spades
+[1]:    3 of Spades
+[2]:    5 of Spades
+[3]:    7 of Spades
+[4]:    8 of Spades
+
+Bet: 9
+Dealer: false
+Potential points: 1
+Actual points: -9
+Suit: Diamonds
+[1]:    2 of Diamonds
+[2]:    5 of Diamonds
+[3]:    6 of Diamonds
+[4]:    7 of Diamonds
+
+Bet: 7
+Dealer: true
+Potential points: 1
+Actual points: -7
+Suit: Diamonds
+[1]:    2 of Diamonds
+[2]:    5 of Diamonds
+
+Bet: 9
+Dealer: false
+Potential points: 7
+Actual points: -9
+Suit: Diamonds
+[1]:    5 of Hearts
+[2]:    2 of Diamonds
+[3]:    4 of Diamonds
+[4]:    7 of Diamonds
+[5]:    10 of Diamonds
+
+Bet: 9
+Dealer: false
+Potential points: 11
+Actual points: 11
+Suit: Hearts
+[1]:    3 of Hearts
+[2]:    5 of Hearts
+[3]:    10 of Hearts
+[4]:    Jack of Hearts
+
+.-.Bet: 10
+Bettor: Homer Simpsons (AI)
+Betting Team: The Simpsons
+Dealer: false
+Potential points: 7
+Actual points: -10
+Suit: Diamonds
+[1]:    5 of Hearts
+
+Bet: 14
+Bettor: Bart Simpsons (AI)
+Betting Team: The Simpsons
+Dealer: false
+Potential points: 6
+Actual points: -14
+Suit: Hearts
+[1]:    8 of Hearts
+
+Bet: 14
+Bettor: Homer Simpsons (AI)
+Betting Team: The Simpsons
+Dealer: true
+Potential points: 1
+Actual points: -14
+Suit: Hearts
+[1]:    6 of Hearts
+[2]:    Jack of Hearts
+[3]:    King of Hearts
+
+Bet: 8
+Bettor: Bart Simpsons (AI)
+Betting Team: The Simpsons
+Dealer: false
+Potential points: 7
+Actual points: -8
+Suit: Clubs
+[1]:    3 of Clubs
+[2]:    Jack of Clubs
+
+Bet: 12
+Bettor: Peter Griffin (AI)
+Betting Team: Family Guy
+Dealer: false
+Potential points: 6
+Actual points: -12
+Suit: Spades
+[1]:    2 of Spades
+[2]:    5 of Spades
+[3]:    10 of Spades
+[4]:    5 of Clubs
+
+Bet: 9
+Bettor: Homer Simpsons (AI)
+Betting Team: The Simpsons
+Dealer: false
+Potential points: 6
+Actual points: -9
+Suit: Hearts
+[1]:    9 of Hearts
+[2]:    Queen of Hearts
+[3]:    Ace of Hearts
+
+Bet: 6
+Bettor: Stewie Griffin (AI)
+Betting Team: Family Guy
+Dealer: false
+Potential points: 3
+Actual points: -6
+Suit: Spades
+[1]:    Jack of Spades
+[2]:    Queen of Spades
+[3]:    5 of Clubs
+
+Bet: 14
+Bettor: Bart Simpsons (AI)
+Betting Team: The Simpsons
+Dealer: false
+Potential points: 7
+Actual points: -14
+Suit: Hearts
+[1]:    4 of Hearts
+[2]:    8 of Hearts
+[3]:    10 of Hearts
+
+Bet: 10
+Bettor: Bart Simpsons (AI)
+Betting Team: The Simpsons
+Dealer: true
+Potential points: 6
+Actual points: -10
+Suit: Diamonds
+[1]:    5 of Hearts
+
+Bet: 9
+Bettor: Stewie Griffin (AI)
+Betting Team: Family Guy
+Dealer: true
+Potential points: 0
+Actual points: -9
+Suit: Spades
+[1]:    Jack of Spades
+[2]:    King of Spades
+[3]:    5 of Clubs
+
+Bet: 13
+Bettor: Homer Simpsons (AI)
+Betting Team: The Simpsons
+Dealer: true
+Potential points: 12
+Actual points: -13
+Suit: Diamonds
+[1]:    3 of Diamonds
+[2]:    6 of Diamonds
+[3]:    8 of Diamonds
+[4]:    Jack of Diamonds
+[5]:    King of Diamonds
+
+Bet: 6
+Bettor: Bart Simpsons (AI)
+Betting Team: The Simpsons
+Dealer: false
+Potential points: 9
+Actual points: 9
+Suit: Spades
+[1]:    Jack of Spades
+
+Bet: 9
+Bettor: Peter Griffin (AI)
+Betting Team: Family Guy
+Dealer: false
+Potential points: 3
+Actual points: -9
+Suit: Clubs
+[1]:    5 of Spades
+[2]:    2 of Clubs
+[3]:    7 of Clubs
+
+Bet: 7
+Bettor: Peter Griffin (AI)
+Betting Team: Family Guy
+Dealer: false
+Potential points: 13
+Actual points: 13
+Suit: Clubs
+[1]:    2 of Clubs
+[2]:    5 of Clubs
+[3]:    Queen of Clubs
+
+Bet: 14
+Bettor: Homer Simpsons (AI)
+Betting Team: The Simpsons
+Dealer: true
+Potential points: 7
+Actual points: -14
+Suit: Diamonds
+[1]:    2 of Diamonds
+[2]:    4 of Diamonds
+[3]:    5 of Diamonds
+
+Bet: 7
+Bettor: Homer Simpsons (AI)
+Betting Team: The Simpsons
+Dealer: false
+Potential points: 13
+Actual points: 13
+Suit: Spades
+[1]:    4 of Spades
+[2]:    6 of Spades
+
+Bet: 6
+Bettor: Bart Simpsons (AI)
+Betting Team: The Simpsons
+Dealer: true
+Potential points: 5
+Actual points: -6
+Suit: Clubs
+[1]:    4 of Clubs
+[2]:    7 of Clubs
+
+Bet: 10
+Bettor: Homer Simpsons (AI)
+Betting Team: The Simpsons
+Dealer: false
+Potential points: 1
+Actual points: -10
+Suit: Spades
+[1]:    7 of Spades
+[2]:    Queen of Spades
+[3]:    5 of Clubs
+
+Round winner: The Simpsons
+Betting Team: The Simpsons
+Bet: 8, Bettor: Bart Simpsons (AI), Dealer: true, Suit: Spades
+Potential points: 12, Actual points: 12
+[1]:    2 of Spades
+[2]:    9 of Spades
+[3]:    Ace of Spades
+[4]:    5 of Clubs
+
+Round winner: Family Guy
+Betting Team: The Simpsons
+Bet: 9, Bettor: Bart Simpsons (AI), Dealer: false, Suit: Hearts
+Potential points: 7, Actual points: -9
+[1]:    Jack of Hearts
+[2]:    Queen of Hearts
+[3]:    5 of Diamonds
+
+Round winner: The Simpsons
+Betting Team: The Simpsons
+Bet: 6, Bettor: Homer Simpsons, Dealer: true, Suit: Spades
+Potential points: 14, Actual points: 14
+[1]:    2 of Spades
+[2]:    6 of Spades
+[3]:    Queen of Spades
+[4]:    King of Spades
+[5]:    5 of Clubs
+
+Round winner: Family Guy
+Betting Team: Family Guy
+Bet: 6, Bettor: Peter Griffin (AI), Dealer: true, Suit: Clubs
+Potential points: 11, Actual points: 11
+[1]:    5 of Spades
+[2]:    8 of Clubs
+[3]:    10 of Clubs
+[4]:    Queen of Clubs
+[5]:    King of Clubs
+[6]:    Ace of Clubs
+
+Round winner: The Simpsons
+Betting Team: The Simpsons
+Bet: 6, Bettor: Bart Simpsons (AI), Dealer: true, Suit: Spades
+Potential points: 12, Actual points: 12
+[1]:    2 of Spades
+[2]:    3 of Spades
+[3]:    6 of Spades
+[4]:    Queen of Spades
+[5]:    Ace of Spades
+
+Round winner: The Simpsons
+Betting Team: Family Guy
+Bet: 6, Bettor: Peter Griffin (AI), Dealer: false, Suit: Clubs
+Potential points: 2, Actual points: -6
+[1]:    5 of Spades
+[2]:    10 of Clubs
+[3]:    Ace of Clubs
+
+Round winner: The Simpsons
+Betting Team: The Simpsons
+Bet: 6, Bettor: Homer Simpsons, Dealer: true, Suit: Clubs
+Potential points: 13, Actual points: 13
+[1]:    Jack of Clubs
+[2]:    Queen of Clubs
+
+Round winner: Family Guy
+Betting Team: The Simpsons
+Bet: 7, Bettor: Bart Simpsons (AI), Dealer: false, Suit: Diamonds
+Potential points: 2, Actual points: -7
+[1]:    5 of Hearts
+[2]:    Jack of Diamonds
+[3]:    Ace of Diamonds
+
+Round winner: The Simpsons
+Betting Team: The Simpsons
+Bet: 6, Bettor: Bart Simpsons (AI), Dealer: true, Suit: Spades
+Potential points: 14, Actual points: 14
+[1]:    8 of Spades
+[2]:    10 of Spades
+[3]:    Queen of Spades
+[4]:    5 of Clubs
+
+Round winner: DRAW
+Betting Team: Family Guy
+Bet: 6, Bettor: Stewie Griffin (AI), Dealer: true, Suit: Hearts
+Potential points: 7, Actual points: 7
+[1]:    5 of Hearts
+[2]:    Jack of Hearts
+
+Round winner: The Simpsons
+Betting Team: The Simpsons
+Bet: 6, Bettor: Homer Simpsons, Dealer: true, Suit: Diamonds
+Potential points: 12, Actual points: 12
+[1]:    4 of Diamonds
+[2]:    8 of Diamonds
+[3]:    Jack of Diamonds
+[4]:    Ace of Diamonds
+
